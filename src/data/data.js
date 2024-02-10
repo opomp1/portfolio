@@ -1,6 +1,6 @@
 import Colmar from "../assets/projects/colmar-academy.jpg";
 import Food from "../assets/projects/restaurant-website.jpg";
-import RealEst from "../assets/projects/realestate.jpg";
+import MERN from "../assets/projects/react-mern-project.jpg";
 
 export const data = [
   {
@@ -15,20 +15,13 @@ export const data = [
     name: "Food Delivery",
     image: Food,
     github: "https://github.com/opomp1/project-food-website",
-    live: "https://project-food-website.vercel.app/",
+    live: "https://tirawat-food-website.vercel.app/",
   },
   {
     id: 3,
-    name: "React JS Application",
-    image: RealEst,
-    github: "",
-    live: "",
-  },
-  {
-    id: 4,
-    name: "React JS Application",
-    image: Food,
-    github: "",
-    live: "",
+    name: `"coming soon"`,
+    image: MERN,
+    github: "https://github.com/opomp1/react-mern-project",
+    live: "https://tirawat-react-mern-project.vercel.app/",
   },
 ];
